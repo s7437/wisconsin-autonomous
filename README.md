@@ -10,3 +10,6 @@ At first I was using the template functionality built into OpenCV, but I was get
 ## Libraries
 * OpenCV
 * Numpy
+
+
+Simar Singh
